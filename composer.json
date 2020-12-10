@@ -1,0 +1,14 @@
+{
+    "name": "mimido/validation",
+    "description": "An input validation libriary",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Abidemi",
+            "email": "Anthony.adeniyi@yahoo.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
