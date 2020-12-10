@@ -5,6 +5,7 @@
     "keywords": ["form validation"],
     "homepage": "https://github.com/maccabeus/mimido-validation",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Anthony Adeniyi",
